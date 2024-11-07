@@ -35,9 +35,3 @@ This is a personal portfolio website built to highlight my web development skill
 - **JavaScript**: For interactive elements and form validation.
 - **Responsive Design**: Using media queries for mobile-friendly layouts.
 - **Optional**: Any additional libraries or frameworks you may be using (e.g., Bootstrap, jQuery, etc.).
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
